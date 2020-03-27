@@ -1,2 +1,2 @@
 print（“helloworld”）
-fuck
+fuck对对对
